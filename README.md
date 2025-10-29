@@ -25,7 +25,7 @@ Atualmente, aprimorando minhas habilidades em desenvolvimento web, gestão de pr
 
 📫 **Entre em contato comigo:**
 - 🌐 [lucitec.com.pt](https://lucitec.com.pt)
-- ✉️ lucineia@lucitec.com.pt
+- ✉️ atendimento@lucitec.com.pt
 - 💼 [LinkedIn] https://www.linkedin.com/in/lucineia-c-18093339/
 
 ---
