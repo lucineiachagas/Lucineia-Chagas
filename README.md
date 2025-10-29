@@ -14,7 +14,8 @@
 ---
 
 ## 🧩 Linguagens e ferramentas que uso
-HTML • CSS • JavaScript • Canva • Moodle • WordPress • ChatGPT • GitHub
+HTML • CSS • JavaScript • Python • .Net • WordPress • GitHub • Google workspace • Notion 
+
 
 ---
 
