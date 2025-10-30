@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAG0G1-Sj10/cdKSmzruFZt1ab11uhzKnQ/view?utm_content=DAG0G1-Sj10&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heeca35609c" alt="Banner de Lucinéia Chagas" width="100%">
-</p>
+
 # 🌸 Olá, eu sou a Lucinéia Chagas
 
 🎓 Especialista em Informática na educação, Mestra em Informática, mentora e criadora de conteúdos digitais.  
