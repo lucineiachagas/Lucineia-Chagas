@@ -1,35 +1,43 @@
+# Hello, I'm Lucinéia Chagas 👋
 
-# 🌸 Olá, eu sou a Lucinéia Chagas
+Software Developer | Technology Enthusiast
 
-🎓 Especialista em Informática na educação, Mestra em Informática, mentora e criadora de conteúdos digitais.  
-💡 Apaixonada por inovação, escrita e desenvolvimento de projetos que unem propósito e resultado.
-
----
-
-## 🚀 O que eu faço
-- 💼 Consultorias em Tecnologia e Educação Digital  
-- 🧭 Mentorias em Escrita Acadêmica e TCC  
-- 🖥️ Desenvolvimento de cursos e ambientes virtuais de aprendizagem  
-- ✍️ Produção de conteúdo para educação e marketing
+A project focused on building creative and intelligent technology solutions.
 
 ---
 
-## 🧩 Linguagens e ferramentas que uso
-HTML • CSS • JavaScript • Python • .Net • WordPress • GitHub • Google workspace • Notion  • IA entre outras ...
+## 🌿 About Me
 
-
----
-
-## 🌱 Em constante evolução
-Atualmente, aprimorando minhas habilidades em desenvolvimento web, gestão de projetos e automação de processos educacionais.
+• Brazilian developer living in Portugal  
+• Passionate about technology and problem solving  
+• Interested in automation, AI and digital solutions  
 
 ---
 
-📫 **Entre em contato comigo:**
-- 🌐 [lucitec.com.pt](https://lucitec.com.pt)
-- ✉️ atendimento@lucitec.com.pt
-- 💼 [LinkedIn] https://www.linkedin.com/in/lucineia-c-18093339/
+## 🚀 Current Project
+
+**Lucitec**
+
+A technology initiative focused on innovation, automation and intelligent digital solutions.
 
 ---
 
-> “A tecnologia é apenas a ferramenta; o que transforma o mundo é o propósito por trás dela.” ✨
+## 💻 Technologies
+
+HTML  
+CSS  
+JavaScript  
+Python  
+Git & GitHub  
+
+---
+
+## 🌎 Vision
+
+Creating technology that simplifies life and connects people with intelligent solutions.
+
+## GitHub Stats
+
+![Lucinéia GitHub stats](https://github-readme-stats.vercel.app/api?username=lucindaayachagas&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucindaayachagas&layout=compact)
