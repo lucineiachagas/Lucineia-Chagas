@@ -1,37 +1,38 @@
-# Hello, I'm Lucinéia Chagas 👋
+# 👋 Olá, eu sou Lucinéia Chagas
 
-Software Developer | Technology Enthusiast
+**Desenvolvedora de Software**  
+**Entusiasta de Tecnologia**
 
-A project focused on building creative and intelligent technology solutions.
-
----
-
-##  About Me
-
-• Brazilian developer living in Portugal  
-• Passionate about technology and problem solving  
-• Interested in automation, AI and digital solutions  
+Construindo soluções tecnológicas criativas e inteligentes.
 
 ---
 
-##  Current Project
+## Sobre mim
 
-**Lucitec**
-
-A technology initiative focused on innovation, automation and intelligent digital solutions.
-
----
-
-##  Technologies
-
-HTML  
-CSS  
-JavaScript  
-Python  
-Git & GitHub  
+- Desenvolvedora brasileira vivendo em Portugal  
+- Apaixonada por tecnologia e resolução de problemas  
+- Interessada em automação, inteligência artificial e soluções digitais  
 
 ---
 
-##  Vision
+##  Projeto atual
 
-Creating technology that simplifies life and connects people with intelligent solutions.
+### **Lucitec**
+
+Uma iniciativa tecnológica focada em inovação, automação e soluções digitais inteligentes.
+
+---
+
+##  Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- Git & GitHub  
+
+---
+
+##  Visão
+
+Criar tecnologia que simplifique a vida e conecte as pessoas a soluções inteligentes.
