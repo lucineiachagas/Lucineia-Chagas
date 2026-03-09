@@ -36,3 +36,9 @@ Uma iniciativa tecnológica focada em inovação, automação e soluções digit
 ##  Visão
 
 Criar tecnologia que simplifique a vida e conecte as pessoas a soluções inteligentes.
+
+##  Projetos
+
+- **ListaB** – Desenvolvimento de website para suporte a campanha institucional, com foco em comunicação digital e organização de conteúdo.
+- **Lucitec** – Iniciativa de inovação tecnológica.  
+- **ADS Assistant** – Conceito de assistente digital inteligente.
