@@ -6,7 +6,7 @@ A project focused on building creative and intelligent technology solutions.
 
 ---
 
-## 🌿 About Me
+##  About Me
 
 • Brazilian developer living in Portugal  
 • Passionate about technology and problem solving  
@@ -14,7 +14,7 @@ A project focused on building creative and intelligent technology solutions.
 
 ---
 
-## 🚀 Current Project
+##  Current Project
 
 **Lucitec**
 
@@ -22,7 +22,7 @@ A technology initiative focused on innovation, automation and intelligent digita
 
 ---
 
-## 💻 Technologies
+##  Technologies
 
 HTML  
 CSS  
@@ -32,12 +32,6 @@ Git & GitHub
 
 ---
 
-## 🌎 Vision
+##  Vision
 
 Creating technology that simplifies life and connects people with intelligent solutions.
-
-## GitHub Stats
-
-![Lucinéia GitHub stats](https://github-readme-stats.vercel.app/api?username=lucindaayachagas&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucindaayachagas&layout=compact)
